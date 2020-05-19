@@ -1,3 +1,2 @@
 # hello-world
-experimental repository
-a few more edits.
+experimental repository. Adding more edits.
